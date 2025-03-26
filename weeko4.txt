@@ -1,0 +1,15 @@
+git log --oneline(깃 커밋 로그 확인 명령
+
+linux 명령어
+
+echo "작성할 메세지" >> README.md
+(파일을 만들고 그 안에 저장소를 설명하는 메세지를 쓰게한다)
+
+cat "텍스트파일명"
+(텍스트 파일에 들어있는 내용을 출력
+
+
+git remote add origin https://github.com/sunstalogia/test.git
+(격 리포지토리와 로컬 리포지토리와 연결)
+git push -u origin main
+(연결된 원격 리포지토리의 main브랜치에 로컬 리포지토리의 main 브랜치 내용을 업로드)

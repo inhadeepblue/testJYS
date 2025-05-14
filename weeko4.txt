@@ -13,3 +13,5 @@ git remote add origin https://github.com/sunstalogia/test.git
 (격 리포지토리와 로컬 리포지토리와 연결)
 git push -u origin main
 (연결된 원격 리포지토리의 main브랜치에 로컬 리포지토리의 main 브랜치 내용을 업로드)
+
+정윤서 천재
